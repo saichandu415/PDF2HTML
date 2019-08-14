@@ -1,5 +1,5 @@
 # PDF2HTML
-Small Jar utility to convert PDF to HTML
+Simple Jar utility to convert PDF to HTML
 
 ## Properties
 This utility uses pdfix library, obtain the key from the website and update in the properties file
